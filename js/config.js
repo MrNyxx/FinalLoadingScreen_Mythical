@@ -19,12 +19,12 @@ var l_serverName = "Mythical Gaming";
 Otherwise it will just use images*/
 var l_bgVideo = true;
 
-/*Video background
+Video background
 Avaiable options:
 "backgrounds/videos/background.webm"
 
 You can add custom backgrounds
-Just make sure it is at webm VP8 format */
+Just make sure it is at webm VP8 format
 var l_background = "backgrounds/videos/background.webm";
 
 /*(Image-background only)
